@@ -1,1 +1,1 @@
-# Piano-keys
+Creating a Piano keys with codecademy. Learning how to work on event in DOM
